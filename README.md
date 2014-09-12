@@ -1,8 +1,6 @@
 web-aap
 =======
 
-Tool for "Aufbewahrungs- und Archivierungsplanung"
+DO NOT USE!
 
--------
-- listern to user for data syncornisation: Aap.controller.Store 
- 
+Moved and improved to https://github.com/geoadmin/mf-aap
